@@ -8,4 +8,4 @@ Discount System :
 25% discount for purchases ≥1250 units.
 5% discount per milestone (250, 500, 750, 1000 units).
 Delivery/Pickup : Add fees based on user choice.
-Currency Conversion : Supports USD, EUR, and EGP.
+Currency Conversion : Supports USD, EUR, and EGP.(easy to modify)
